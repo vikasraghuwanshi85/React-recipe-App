@@ -1,0 +1,25 @@
+form.form-signin {
+    margin-top: 55px;
+}
+ul,li{
+	list-style: none;
+}
+label{
+	font-weight: bold;
+}
+.wrapper {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.recipe_wrapper {
+    padding: 8px;
+    border: 1px solid #dfdfdf;
+    margin: 10px 0px;
+}
+.recipe_wrapper:hover {
+	background: #dfdfdf;
+}
+.margin-25{
+	margin-top: 25px; 
+}
